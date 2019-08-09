@@ -1,0 +1,12 @@
+#+TITLE Learning how to Learn
+#+DESCRIPTION A guide on how to approach learning
+
+* Effective Learning
+
+** Learning is Social
+
+** Learning is Emotional
+
+** Learning is Exhausting
+
+** Learning is Failure
